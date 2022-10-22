@@ -1,8 +1,8 @@
 ![logo](images/logo.jpg)
 
-# Athena-shebytes
+# Athena-shebytes 
 
-# Fibytes - Financial Inclusion Solution
+# Fibytes - Financial Inclusion for Athena Hackathon October 2022
 
 ### ABOUT US
 
