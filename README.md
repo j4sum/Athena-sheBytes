@@ -1,8 +1,8 @@
 ![logo](images/logo.jpg)
 
-# Athena-shebytes 
+# FiBytes by SheBytes 
 
-# Fibytes - Financial Inclusion sponsored by BlackRock
+# FiBytes is financially inclusive solution sponsored by BlackRock
 
 ### ABOUT US
 
