@@ -2,7 +2,7 @@
 
 # FiBytes by SheBytes 
 
-# FiBytes is financially inclusive solution sponsored by BlackRock
+# FiBytes is a financially inclusive solution sponsored by BlackRock
 
 ### ABOUT US
 
