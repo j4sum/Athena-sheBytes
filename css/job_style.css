@@ -24,9 +24,10 @@ span {
     font-size: 7vh;
 }
 
-.containter {
+.container {
     display: flex;
 }
+
 img.landing-page {
     padding-top: 8%;
     width: 50%;
@@ -47,8 +48,7 @@ input#search {
     background-image: url('https://api.iconify.design/ant-design/search-outlined.svg');
     background-position: 10px 13px;
     background-repeat: no-repeat;
-    padding: 12px 20px 12px 40px; 
-     
+    padding: 12px 20px 12px 40px;
 }
 
 input[type="button"] {
