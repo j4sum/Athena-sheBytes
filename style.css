@@ -9,7 +9,7 @@ html {
 
 body {
     font-size: 100%;
-    font-family: sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 div,
@@ -38,6 +38,10 @@ header {
 img {
     width: 150px;
     height: auto;
+}
+
+#img1 {
+    padding: 50px 80px;
 }
 
 #nav-items li {
@@ -89,4 +93,26 @@ h1 {
     left: 50%;
     transform: translate(-50%, -50%);
     color: #3F0071;
+}
+
+#socials {
+    padding-right: 50%;
+}
+
+p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    text-align: center;
+}
+
+#desc {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    text-align: center;
 }
