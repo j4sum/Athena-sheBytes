@@ -4,17 +4,24 @@
     /* box-sizing: border-box; */
 }
 
-section {
+section#job_listings {
     height: 100vh;
+    /* background-color: black; */
 }
 
-.title {
+h1.title {
     color: black;
     font-size: 5vh;
-    padding-top: 15%;
-    padding-left: 10%;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    transform: translate(0%, 0%);
+    /* padding-top: 15%; */
+    /* padding-left: 10%; */
+    /* margin-left: 10%; */
     padding-bottom: 5%;
-    float: left;
+    /* float: left; */
+    /* background-color: yellow; */
 }
 
 span {
@@ -24,22 +31,33 @@ span {
     font-size: 7vh;
 }
 
-.container {
+/* .container {
     display: flex;
-}
+} */
 
 img.landing-page {
+    /* padding-bottom: 25%; */
     padding-top: 8%;
     width: 50%;
     float: right;
+    /* background-color: violet; */
 }
 
 .searchbar {
     margin-left: 10%;
+    position: absolute;
+    top: 55%;
+    left: 30%;
+    transform: translate(-100%, -50%);
 }
 
+.column1 {
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+}
 input#search {
-    width: 30%;
+    width: 70%;
     box-sizing: border-box;
     border: 2px solid #ccc;
     border-radius: 4px;
