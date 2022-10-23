@@ -261,6 +261,17 @@ q {
     text-align: center;
 } */
 
+h2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    text-align: justify;
+}
+
+p {}
+
 #desc {
     position: absolute;
     top: 50%;
@@ -276,5 +287,7 @@ q {
     bottom: 0px;
     height: 60px;
     width: 100%;
-    background-color: #FFFFFF;
+    background-color: #000000;
+    color: white;
+    text-align: center;
 }
