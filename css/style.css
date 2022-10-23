@@ -514,3 +514,8 @@ text-align: center;
     color: white;
     text-align: center;
 }
+
+.footer .fa-discord {
+    background-color: #000;
+    color: white;
+}
