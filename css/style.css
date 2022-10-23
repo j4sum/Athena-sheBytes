@@ -34,7 +34,7 @@
         }
         
         img.logo {
-            width: 150px;
+            width: 200px;
             height: auto;
         }
         
@@ -95,28 +95,6 @@
             transform: translate(-50%, -50%);
             color: #3F0071;
         }
-        /* .container {
-            display: flex;
-            margin: 0 auto;
-            width: 80%;
-            border: 3px solid #73AD21;
-            padding: 10px;
-            justify-content: center;
-            font-family: Arial, sans-serif;
-            font-size: 1.3rem;
-            font-weight: bold; */
-        /* max-width: 1500px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 0 auto;
-            padding: 40px;
-            height: 50vh;
-            background-color: #f1f1f1;
-            font-family: Arial, sans-serif;
-            font-size: 1.3rem;
-            font-weight: bold; */
-        /* } */
         
         h2 {
             text-align: center;
@@ -135,16 +113,29 @@
         }
         
         .position {
-            /* display: block; */
+            display: block;
             margin-left: auto;
             margin-right: auto;
             padding: 500px;
             width: 100%;
-            /* border-radius: 50%; */
+            border-radius: 50%;
             font-family: Arial, sans-serif;
             font-size: 1.3rem;
             font-weight: bold;
             color: #fff;
+        }
+        
+        .space {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 500px;
+            width: 100%;
+            border-radius: 50%;
+            font-family: Arial, sans-serif;
+            font-size: 1.3rem;
+            font-weight: bold;
+            color: rgb(22, 20, 20);
         }
         
         h1 {
@@ -154,11 +145,31 @@
             transform: translate(-50%, -50%);
             color: #3F0071;
         }
+        
+        #job a:link,
+        a:visited {
+            background-color: #000;
+            color: #FFFFFF;
+            padding: 14px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+        
+        #job a:hover,
+        a:active {
+            background-color: #3F0071;
+        }
+        
+        h4 {
+            color: #3F0071;
+        }
         /* Slideshow container */
         
         .slideshow-container {
             position: relative;
             background: #f1f1f1f1;
+            width: 50%;
         }
         /* Slides */
         
@@ -203,6 +214,7 @@
             text-align: center;
             padding: 20px;
             background: #ddd;
+            width: 50%;
         }
         /* The dots/bullets/indicators */
         
@@ -306,8 +318,7 @@
             color: #ffffff;
             text-align: justify;
         }
-        
-        #intro {
+        /* #intro {
             position: absolute;
             top: 50%;
             left: 50%;
@@ -323,15 +334,44 @@
             transform: translate(-50%, -50%);
             color: #ffffff;
             text-align: center;
-        }
+        } */
         
         .footer {
             position: fixed;
+            padding: 20px;
             left: 0px;
             bottom: 0px;
-            height: 60px;
+            height: 100px;
             width: 100%;
             background-color: #000000;
             color: white;
             text-align: center;
+        }
+        
+        .footer .fa {
+            padding: 20px;
+            font-size: 30px;
+            width: 50px;
+            text-align: center;
+            text-decoration: none;
+        }
+        
+        .footer
+        /* Discord */
+        
+        .fa-discord {
+            background: #000000;
+            color: white;
+        }
+        /* Instagram */
+        
+        .footer .fa-instagram {
+            background: #000000;
+            color: white;
+        }
+        /* Linkedin */
+        
+        .footer .fa-linkedin-in {
+            background: #000000;
+            color: white;
         }
