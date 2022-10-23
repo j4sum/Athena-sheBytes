@@ -9,7 +9,7 @@
         
         body {
             font-size: 100%;
-            font-family: sans-serif;
+            font-family: Arial, sans-serif;
         }
         
         div,
@@ -94,6 +94,44 @@
             left: 50%;
             transform: translate(-50%, -50%);
             color: #3F0071;
+        }
+        /* .container {
+            display: flex;
+            margin: 0 auto;
+            width: 80%;
+            border: 3px solid #73AD21;
+            padding: 10px;
+            justify-content: center;
+            font-family: Arial, sans-serif;
+            font-size: 1.3rem;
+            font-weight: bold; */
+        /* max-width: 1500px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto;
+            padding: 40px;
+            height: 50vh;
+            background-color: #f1f1f1;
+            font-family: Arial, sans-serif;
+            font-size: 1.3rem;
+            font-weight: bold; */
+        /* } */
+        
+        h2 {
+            text-align: center;
+        }
+        
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 500px;
+            width: 50%;
+            border-radius: 50%;
+            font-family: Arial, sans-serif;
+            font-size: 1.3rem;
+            font-weight: bold;
         }
         
         h1 {
