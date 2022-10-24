@@ -13,6 +13,8 @@ FiBytes is a platform to educate and connect domestic violence survivors with th
 - HTML5
 - CSS3
 - JAVASCRIPT
+- MYSQL
+- WAMP
 
 ### SCREENSHOTS
 
