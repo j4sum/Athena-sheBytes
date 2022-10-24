@@ -20,6 +20,16 @@ FiBytes is a platform to educate and connect domestic violence survivors with th
 
 https://www.figma.com/file/UYNuXL4UuLuJWQv0vawlJP/FiBytes?node-id=0%3A1
 
+![homepage](images/screenshots/home.png)
+![aboutpage](images/screenshots/about.png)
+![learnpage](images/screenshots/learn.png)
+![learnpage](images/screenshots/learn1.png)
+![jobpage](images/screenshots/job.png)
+![portalpage](images/screenshots/portal.png)
+![portalpage](images/screenshots/portal2.png)
+![footer](images/screenshots/footer.png)
+
+
 ### DEVELOPMENT
 
 https://j4sum.github.io/Athena-shebytes/#learn
