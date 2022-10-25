@@ -1,5 +1,3 @@
-![logo](images/logo.jpg)
-
 # FiBytes by team SheBytes 
 
 # FiBytes is a financially inclusive solution sponsored by BlackRock
