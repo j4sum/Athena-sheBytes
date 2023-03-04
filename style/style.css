@@ -94,12 +94,26 @@ section {
   background-color: #bc8cf2;
 }
 
-h1.home_title {
+/* .title {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #3f0071;
+} */
+
+.card {
+  /* To correctly align image, regardless of content height: */
+  vertical-align: top;
+  display: inline-block;
+  /* To horizontally center images and caption */
+  text-align: center;
+  /* The width of the container also implies margin around the images. */
+  width: 50px;
+}
+.caption {
+  /* Make the caption a block so it occupies its own line. */
+  display: block;
 }
 
 h2 {
@@ -151,12 +165,21 @@ h2 {
   color: rgb(22, 20, 20);
 }
 
-h1 {
+.main {
   position: absolute;
+  text-align: center;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: #000;
+}
+
+.home-image {
+  width: 400px;
+}
+
+h1 {
+  text-align: center;
 }
 
 .card {
